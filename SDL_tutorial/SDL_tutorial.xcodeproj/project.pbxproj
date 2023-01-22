@@ -27,6 +27,7 @@
 		87717835297CB1050030D83A /* SDL_tutorial */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SDL_tutorial; sourceTree = BUILT_PRODUCTS_DIR; };
 		87717838297CB1050030D83A /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		87717840297CB14E0030D83A /* SDL2.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SDL2.framework; path = ../../../../../../Library/Frameworks/SDL2.framework; sourceTree = "<group>"; };
+		87C7A346297CB8D800A3DB0E /* hello_world_2.bmp */ = {isa = PBXFileReference; lastKnownFileType = image.bmp; path = hello_world_2.bmp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +63,7 @@
 			isa = PBXGroup;
 			children = (
 				87717838297CB1050030D83A /* main.cpp */,
+				87C7A346297CB8D800A3DB0E /* hello_world_2.bmp */,
 			);
 			path = SDL_tutorial;
 			sourceTree = "<group>";
